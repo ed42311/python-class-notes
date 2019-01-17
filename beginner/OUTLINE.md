@@ -11,9 +11,15 @@ Things to cover
   * Integers
   * Booleans
   * Floats 
+  * Lists
+    * Indexes
+    * Subsetting and slice
+    * List (memory pointer)
+    * List manipulation
+      * del() and setting
+      * list() for copying or [:]
 * Casting data types
   * int()
   * float()
   * str()
   * bool()
- 
